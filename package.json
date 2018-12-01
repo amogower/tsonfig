@@ -1,0 +1,25 @@
+{
+  "name": "@amogower/tsconfig",
+  "version": "1.0.0",
+  "description": "Standard TypeScript config",
+  "license": "MIT",
+  "repository": "amogower/tsconfig",
+  "author": {
+    "name": "Andrew Gower",
+    "email": "amogower@gmail.com",
+    "url": "https://amogower.com"
+  },
+  "engines": {
+    "node": ">=6"
+  },
+  "files": [
+    "tsconfig.json"
+  ],
+  "keywords": [
+    "tsconfig",
+    "typescript",
+    "ts",
+    "config",
+    "configuration"
+  ]
+}
